@@ -1,0 +1,9 @@
+c:\users\unicomfacauca\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+c:\users\unicomfacauca\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\unicomfacauca\source\repos\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\unicomfacauca\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\unicomfacauca\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\unicomfacauca\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\unicomfacauca\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+c:\users\unicomfacauca\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\unicomfacauca\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
